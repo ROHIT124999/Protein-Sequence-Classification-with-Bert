@@ -1,3 +1,2 @@
 # Protein-Sequence-Classification-with-Bert
-
-# in Master
+in Master node
